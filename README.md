@@ -82,7 +82,7 @@ Explora nuestros recursos y modelos de negocio:
 
 ## 🛤️ **Próximos Pasos**  
 - Integrar una función de recomendaciones personalizadas con inteligencia artificial.  
-- Expandir la oferta de manhua y agregar traducciones propias.  
+- Expandir la oferta de manwhas y agregar traducciones propias.  
 - Lanzar una app móvil para mejorar la experiencia del usuario.  
 
 ---
