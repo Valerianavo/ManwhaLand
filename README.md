@@ -31,7 +31,7 @@
 ---
 
 ## 🤝 **Socios Clave**  
-- Editoriales y distribuidores en Corea y China.  
+- Editoriales y distribuidores en Corea.  
 - Plataformas de envío y logística.  
 - Tiendas de cultura pop y cómics.  
 - Influencers y comunidades de fanáticos del manhwa y manhua.  
